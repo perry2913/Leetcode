@@ -1,19 +1,33 @@
 # Leetcode
 # Basic Coding Questions
 Writing “Hello, World!” program. (C/C++, Python, Java)
+
 Write a program to display the list of even numbers.
+
 Find the Factorial of a given number.
+
 Compare Two Numbers using else-if statement and output smaller and larger numbers.
+
 Write a program to determine If the given year is a Leap year.
+
 Print all the elements in the Fibonacci number series.
+
 This program can be implemented using a loop or recursion technique.
+
 Write a program to check if the number is Palindrome number or not.
+
 Generate all the prime numbers between one & the given number.
+
 Print the Pyramid of stars using nested for loops.
+
 Print Reversed pyramid on programming console using for loops & decrement operator.
+
 Write a program for Nested Switch.
+
 Write a program to calculate Circle Area using radius.
-Fins the Factorial of a number using recursion technique.
+
+Find the Factorial of a number using recursion technique.
+
 Print the Pyramid of numbers using for loops.
 Write a program to Find a Maximum of Two Numbers using the conditional operator.
 Write a program to Find Minimum of Two Numbers using the conditional operator.
