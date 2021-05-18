@@ -1,18 +1,10 @@
 # Leetcode
 # Basic Coding Questions
-Writing “Hello, World!” program. (C/C++, Python, Java)
-
-Write a program to display the list of even numbers.
-
 Find the Factorial of a given number.
 
 Compare Two Numbers using else-if statement and output smaller and larger numbers.
 
-Write a program to determine If the given year is a Leap year.
-
-Print all the elements in the Fibonacci number series.
-
-This program can be implemented using a loop or recursion technique.
+Print all the elements in the Fibonacci number series
 
 Write a program to check if the number is Palindrome number or not.
 
@@ -59,6 +51,7 @@ Find the longest line from the file. (Python)
 Take the students Mark as User input and check the range of Mark. (Java)
 # String Handling
 Find the first duplicate/repeated character in the string. (Python)
+
 Write a program to check if the substring is present in the given string. (C/C++)
 Write a program to reverse the given string. (Python)
 How to reverse a string without affecting special characters?
